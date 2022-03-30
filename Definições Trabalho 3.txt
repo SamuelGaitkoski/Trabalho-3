@@ -1,0 +1,29 @@
+Definições para o desenvolvimento do site "João Moraes Fotos"
+
+1. Montar a equipe:
+Erick Gonçalves, João Moraes e Samuel Gaitkoski de Almeida
+
+2. Problema:
+1 - Apresentar um portfólio de fotos e trabalhos para os possíveis clientes;
+2 - Apresentar a biografia do fotógrafo, para que as pessoas minimamente o conheçam e saibam de sua trajetória;
+3 - Apresentar e vender seus pacotes, que são seus produtos;
+4 - Apresentar um ambiente limpo com conteúdos claros e objetivos;
+5 - Apresentar uma forma pela qual as pessoas possam entrar em contato com o fotógrafo.
+
+3. Ideia para resolver o problema:
+- Criar um site para a apresentação do trabalho do fotógrafo, para a venda de seus produtos e para que as pessoas 
+possam entrar em contato com ele.
+
+4. Cronograma (data da entrega das tarefas):
+09/02/2022 - Início do projeto, obtendo exemplos de sites de fotógrafos e construção da base do site
+10/02/2022 - Construção do header (topo) e parte do portfólio do site
+14/02/2022 - Construção da parte dos presets do fotógrafo
+15/02/2022 - Construção da parte que fala do fotógrafo e seção de contato do site, concluindo a página WEB.
+
+5. Definir prioridades (o que deve ser feito primeiro):
+1 - Inicialmente deve ser traçado como o site será feito, obtendo exemplos para a obtenção de idéias para cada parte do site;
+2 - Em seguida, iniciamos o desenvolvimento do site, construindo-o pela seguinte ordem: Header, Portfólio, Presets, Sobre e Contato.
+3 - Finalizar os detalhes do site e funcionalidades extras do mesmo.
+
+6. Desenvolver as tarefas (prioridades):
+1 - Desenvolvimento do site.
